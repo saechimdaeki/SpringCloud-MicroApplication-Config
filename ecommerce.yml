@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000 #1day
-  secret: saechimdaekiTokenabcdefghijklmnopqrstuvwxyz
+  secret: '{cipher}AQAq5ZHwUCkDy1RHmkt15cVo9G81mJVbo363alIJue3VOYeGYQfd6J4QhPvdqvtFu9lMb/oTYn7NqiCINzB03qasA2M3N9N81NTdGeu41bDzCdXIMbk7O1jZQWxs1h8biTUL+oYpVjdnqXCB8r0b5EAOq9xpH85iOMM9Kk5hePc7fbUErJmvNCF7bGbTgoANOXB8/7/5DGyf+XN/w2UrPtAsdk5AdO4KAgwoCFjKF6LDUL6LgYTqBNtDt8u5To7/IZLp50LOJ49+GPqjLELEQ27tDSIOcGAfIlbKaXhhvzIPz9KJShg9DtztxnMHy85flodDEepZ4DVjB0CKcUqWJbzX9Swku6LW2c6opLmZGPLfAdv7i92b4E8BS+tw6wuTQpqqbB4jmAadW9evZw1aK0l7F6mnQvdW/nzl0iqpeVFbrg=='
 
 gateway:
   ip: 192.168.200.152 # my ip..   
